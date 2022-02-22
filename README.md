@@ -24,6 +24,9 @@
    <p> 
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nnadivictory25&show_icons=true&theme=tokyonight&hide_border=true"> 
    <img height="190px" width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nnadivictory25&theme=tokyonight&hide=jupyter%20notebook&layout=compact&langs_count=8&hide_border=true">
+    <p align="center"  > 
+   <img width="500px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=Nnadivictory25&theme=radical" alt="Nnadivictory Github Stats">
+   </p>
    </p>
 
 
