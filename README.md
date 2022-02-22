@@ -3,8 +3,10 @@
 
 
 
-   ### Hi there Visitor , Welcome to my GitHub page.
-   ### I hope you enjoy the tour !👋
+   <h1> Hi there! , Welcome to my GitHub page. I hope you enjoy the tour !👋</h1>
+   
+  <p align="center"> <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> 
+  </p>
 
 <!--
 **Nnadivictory25/Nnadivictory25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
