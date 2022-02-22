@@ -14,9 +14,9 @@
    
    
   ---
-  <p align="center"> <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> 
+<!--   <p align="center"> <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> 
   </p>
-  
+   -->
   ---
   
    <h2 align="center"> ⚡ Profile Stats ⚡</h2>
