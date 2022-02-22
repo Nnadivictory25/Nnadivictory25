@@ -3,7 +3,11 @@
 
 
 
-   <h1 align="center"> Hi there! , Welcome to my GitHub page. I hope you enjoy the tour !👋</h1>
+   <h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Welcome+To+My+Github;Victory+Here...;Nice+to+meet+you!&center=true&size=32">
+  </a>
+</h1>
    
    
    
@@ -21,17 +25,19 @@
    </p>
 
 
-<!--
-**Nnadivictory25/Nnadivictory25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Nnadivictory25/Nnadivictory25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+   <h3 align="center"> ⚡ Little About ⚡</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Undergrauduate Computer Science Student 
+- 🌱 Aspiring To Become A Full-Stack Developer!
+- 👯 Dream Of Being One Of The Best In What I do
+- 🤔 I’m Open To Collaborations, Advice , and Networking
+- 💻 Languages and Tools I use:  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">   <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
+
+📫 How to reach me:
+<code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/NnadiVictory01)</code> 
+<code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC2fmwH4mrqA30X103bmnG-w)</code> 
+<code> [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/nnadi.victory.94)</code>
+<code> [<img src ="https://img.shields.io/badge/github-12100E?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Nnadivictory25)</code>
