@@ -1,4 +1,4 @@
-![Add a heading (2)](https://user-images.githubusercontent.com/71198309/156565125-fcc96438-4c53-45cc-aa26-d95854d72e9b.gif)
+![Add a heading](https://user-images.githubusercontent.com/71198309/194701519-afa3ce12-6dd4-4f23-8430-f4fbccdf3bbb.gif)
 
 
 
