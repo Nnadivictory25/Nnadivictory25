@@ -42,7 +42,7 @@
 
 
 📫 How to reach me:
-<code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/NnadiVictory01)</code> 
+<code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/nnvictory001)</code> 
 <code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC2fmwH4mrqA30X103bmnG-w)</code> 
 <code> [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/nnadi.victory.94)</code>
 <code> [<img src ="https://img.shields.io/badge/github-12100E?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Nnadivictory25)</code>
