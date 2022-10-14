@@ -57,16 +57,7 @@
 </p>
 
 
-📫 How to reach me:
-<code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/nnvictory001)</code> 
-<code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC2fmwH4mrqA30X103bmnG-w)</code> 
-<code> [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/nnadi.victory.94)</code>
-<code> [<img src ="https://img.shields.io/badge/github-12100E?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Nnadivictory25)</code>
+### Socials
 
-<br>
-<br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Nnadivictory25/count.svg" />
+<p align="left"> <a href="https://www.github.com/nnadivictory25" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nnadi-victory-75482a227" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17879571/nnadi-victory" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nnvictory001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
- <div align="center">
