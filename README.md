@@ -25,6 +25,10 @@
     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nnadivictory25&show_icons=true&theme=tokyonight&show_icons=true" />
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nnadivictory25&theme=tokyonight" />
 </p>
+<p align="center">
+<img width="50%" src="https://activity-graph.herokuapp.com/graph?username=nnadivictory25&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</p>
+
 
 <!--**Nnadivictory25/Nnadivictory25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ---
