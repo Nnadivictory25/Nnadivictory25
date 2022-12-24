@@ -39,6 +39,7 @@
 - 🌱 Aspiring To Become A Full-Stack Developer!
 - 👯 Open Source Contributor
 - 🤔 I’m Open To Collaborations, Advice , and Networking
+- I enjoy coding so much , I think I'm addicted 🥰
 
 ### Skills
 
